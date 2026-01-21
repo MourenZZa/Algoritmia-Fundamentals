@@ -5,8 +5,11 @@ Author: Santiago Mourenza Rivero.
 
 ## Structure
 
-Each unit groups exercises by technique. Inside each exercise folder you will usually find a `Source.cpp`
-file and, in some cases, a Visual Studio project (`.sln` / `.vcxproj`).
+Each unit groups exercises by technique. Inside each exercise folder you will usually find:
+
+- A PDF statement for the problem.
+- A project subfolder (same name as the exercise) with `Source.cpp`.
+- In some cases (mostly in `1 - Iterativo`), a `.sln` file at the exercise root.
 
 - 1 - Iterativo
   - 02 - Vector bien dividido
